@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Danis 👋
+**Python Backend Developer** 
 
-<!--
-**DearByy/DearByy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[my CV]( https://drive.google.com/file/d/1_tLZksY8bDk8XK5QpgtZ7N3PqmtqyX_p/view?usp=sharing)
 
-Here are some ideas to get you started:
+<p align='left'>
+   </a>
+   <a href="https://t.me/D_arble">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☀️Summary 
+
+### 🐘Education
+[NUST MISIS](https://misis.ru/) | Moscow | BS | Applied Mathematics | 2023-2027
+
+### 🛠 Hard Skills
+Python, C++, PyTorch, Sklearn, Pandas, NumPy, Matplotlib, CatBoost, Git, Bash, Linux, Yandex Cloud
+
+### 👞Projects
+
+### 🏆Competitions
+
+### 👨‍🎓Additional Education
+- [Deep Learning School by MIPT (2023 - 2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
+- [MLOps and the production approach in ML by ODS (2024)](https://ods.ai/tracks/ml-in-production-spring-23): MLOps and production basics (eg gitlab, airflow, mlflow)
+- Basics of algorithms and data structures by Yandex (2023)
+
+### 🌍Languages
+*   English: Upper Intermediate (B2)
+*   Russian: Native    
+
+- 🔭 I’m currently working on this page.
