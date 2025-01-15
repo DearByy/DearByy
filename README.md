@@ -1,8 +1,8 @@
 # Hi, I'm Danis 👋
-**Python Backend Developer** 
+**data Scientist** 
 
 
-[my CV]( https://drive.google.com/file/d/1_tLZksY8bDk8XK5QpgtZ7N3PqmtqyX_p/view?usp=sharing)
+[my CV]()
 
 <p align='left'>
    </a>
@@ -16,7 +16,7 @@
 [NUST MISIS](https://misis.ru/) | Moscow | BS | Applied Mathematics | 2023-2027
 
 ### 🛠 Hard Skills
-Python, C++, PyTorch, Sklearn, Pandas, NumPy, Matplotlib, CatBoost, Git, Bash, Linux, Yandex Cloud
+Python, C++, PyTorch, Sklearn, Pandas, NumPy, Matplotlib, CatBoost, Git, Bash, Linux
 
 ### 👞Projects
 
